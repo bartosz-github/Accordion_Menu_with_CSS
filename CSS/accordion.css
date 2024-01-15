@@ -18,7 +18,7 @@
 }
 
 .tab label{
-    background: #72d2c6;
+    background: #05776a;
     color: #fff;
     display: block;
     font-weight: bold;
@@ -30,7 +30,7 @@
 
 .tab input:focus + label,
 .tab label:hover {
-    background: #85D8CE;
+    background: #046b5f;
     letter-spacing: 1px;
 }
 
@@ -47,3 +47,4 @@
 .tab input:checked ~ .tab-content {
     max-height: 6.25em;
 }
+
