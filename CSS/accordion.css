@@ -33,3 +33,13 @@
     background: #85D8CE;
     letter-spacing: 1px;
 }
+
+.tab-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: all .35s;
+}
+
+.tab-content p {
+    margin: lem 0;
+}
