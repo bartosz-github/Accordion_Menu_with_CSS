@@ -18,8 +18,8 @@
 }
 
 .tab label{
-    background: #05776a;
-    color: #fff;
+    background: #fff;
+    color: #05776a;
     display: block;
     font-weight: bold;
     line-height: 3;
@@ -30,8 +30,9 @@
 
 .tab input:focus + label,
 .tab label:hover {
-    background: #046b5f;
+    background: #7a7a7a;
     letter-spacing: 1px;
+    cursor:crosshair;
 }
 
 .tab-content {
