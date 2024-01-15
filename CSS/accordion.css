@@ -43,3 +43,7 @@
 .tab-content p {
     margin: lem 0;
 }
+
+.tab input:checked ~ .tab-content {
+    max-height: 6.25em;
+}
