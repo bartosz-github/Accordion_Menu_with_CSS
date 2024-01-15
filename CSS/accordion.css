@@ -27,3 +27,9 @@
     margin-bottom: .5em;
     transition: letter-spacing .55s;
 }
+
+.tab input:focus + label,
+.tab label:hover {
+    background: #85D8CE;
+    letter-spacing: 1px;
+}
