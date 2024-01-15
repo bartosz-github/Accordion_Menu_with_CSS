@@ -16,3 +16,14 @@
     top: 0;
     z-index: -999;
 }
+
+.tab label{
+    background: #72d2c6;
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    line-height: 3;
+    padding-left: .5em;
+    margin-bottom: .5em;
+    transition: letter-spacing .55s;
+}
